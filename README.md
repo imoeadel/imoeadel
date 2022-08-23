@@ -6,7 +6,7 @@
 - 💻 Hiring me? this is my number : +201067402171 
 
 ### SKILLS :
-## Flutter, Dart, Java, Android, HTML, CSS, JS, React.js, Redux, 
+## Flutter, Dart, Java, Android, HTML, CSS, JS, React.js, Redux, Git, Regex. 
 
 <!--
 **imoeadel/imoeadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
