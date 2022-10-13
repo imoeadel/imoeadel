@@ -7,5 +7,5 @@
 ### SKILLS :
 ## React.js, JS, HTML, CSS, Redux, Git, Regex, Flutter, Dart, Java, Android,. 
 
-JS, <!--
+
 
