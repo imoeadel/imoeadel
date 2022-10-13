@@ -1,24 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a Flutter Developer at GE-Tech.
-- 🌱 I’m currently learning more about mobile development in deep, and also I'm learning more about web-development (already worked in some projects using React).
+- 🌱 I’m currently learning more about web development using React in deep.
 - 💻 Hiring me? this is my number : +201067402171 
 
 ### SKILLS :
-## Flutter, Dart, Java, Android, HTML, CSS, JS, React.js, Redux, Git, Regex. 
+## React.js, JS, HTML, CSS, Redux, Git, Regex, Flutter, Dart, Java, Android,. 
 
-<!--
-**imoeadel/imoeadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JS, <!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
